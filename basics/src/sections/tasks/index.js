@@ -5,7 +5,10 @@ const Tasks = () => {
   return (
     <div>
       <h2>Tasks</h2>
-      <p>To check results after complete, run tests</p>
+      <p>
+        Go to the section tasks, find comments in the code and add missing. After complete run tests
+        to check results.
+      </p>
       <ArrayMethods />
     </div>
   );

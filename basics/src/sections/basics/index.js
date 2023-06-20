@@ -16,11 +16,18 @@ const Basics = () => {
         JavaScript allows you to add interactivity to your pages. You may have seen common examples
         on the websites: sliders, click interactions, popups, and so on.
       </p>
-      Visit the following resources to learn more:
+      <p>
+        {`W3schools provides new hub to all the tutorials they offer and your learning progress - `}
+        <a href="https://my-learning.w3schools.com/" target="_blank" rel="noopener noreferrer">
+          My Learning
+        </a>
+        . Create a free W3Schools account to improve your learning experience - read tutorial, do
+        exercises and take quiz. Start by exploring the following resources:
+      </p>
       <ul>
         <li>
           <a
-            href="https://www.w3schools.com/html/html_intro.asp"
+            href="https://my-learning.w3schools.com/tutorial/html"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -29,7 +36,7 @@ const Basics = () => {
         </li>
         <li>
           <a
-            href="https://www.w3schools.com/css/css_intro.asp"
+            href="https://my-learning.w3schools.com/tutorial/css"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -38,7 +45,7 @@ const Basics = () => {
         </li>
         <li>
           <a
-            href="https://www.w3schools.com/js/js_intro.asp"
+            href="https://my-learning.w3schools.com/tutorial/js"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -12,7 +12,7 @@ const Concepts = () => {
       <p>
         Since React was written in JavaScript, it uses a lot of the JavaScript concepts that were
         introduced before and in the ES6 version of JavaScript. It is important for anyone who wants
-        to learn React to understand these concepts.
+        to learn React to understand these concepts:
       </p>
       <ul>
         <li>If ... Else Statement</li>
