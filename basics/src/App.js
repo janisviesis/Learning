@@ -1,13 +1,14 @@
-import "./App.css";
-import Basics from "./sections/Basics";
-import BeforeReact from "./sections/BeforeReact";
+import Basics from "./sections/basics";
+import Concepts from "./sections/cocepts";
+import Tasks from "./sections/tasks";
 
 const App = () => {
   return (
-    <div className="App">
+    <>
       <Basics />
-      <BeforeReact />
-    </div>
+      <Concepts />
+      <Tasks />
+    </>
   );
 };
 

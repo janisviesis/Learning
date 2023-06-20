@@ -1,6 +1,6 @@
 import React from "react";
 
-const BeforeReact = () => {
+const Concepts = () => {
   return (
     <div>
       <h2>JavaScript Concepts to Know Before Learning React</h2>
@@ -45,4 +45,4 @@ const BeforeReact = () => {
   );
 };
 
-export default BeforeReact;
+export default Concepts;
